@@ -2,7 +2,7 @@ const fs = require("fs")
 const chalk = require("chalk")
 
 // Other
-global.thum = "https://telegra.ph/file/7188012d573871aaf4fa0.jpg"
+global.thum = "https://telegra.ph/file/d2a9b74f306415dc1eb43.png"
 global.log0 = fs.readFileSync("./media/fenzo.jpg")
 global.thumb = fs.readFileSync("./media/fenzo.jpg")
 global.err4r = "https://telegra.ph/file/7188012d573871aaf4fa0.jpg"
